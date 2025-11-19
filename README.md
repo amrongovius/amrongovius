@@ -1,8 +1,6 @@
-- 👋 Hi, I’m **Alice** @amrongovius
+Designer & creative technologist in Berlin
 
-- 👀 I’m interested in building lightweight AI tools, automations and agents
-- 🌱 I’m currently learning Google Apps Script and building with AI. 
-- 💞️ I’m looking to collaborate on rethinking SaaS bloat
+Building thoughtful tools with code & AI
+Recently: 332-page photobook from WhatsApp messages 📚
 
-- 📫 **How to reach me:** [hello@alicemrongovius.com](mailto:hello@alicemrongovius.com) | [LinkedIn](https://www.linkedin.com/in/amrongovius/)
-- ⚡ **Fun fact:** I used to make comic books about quantum entanglement.
+⚡ **Fun fact:** I used to make comic books about quantum entanglement.
